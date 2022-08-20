@@ -6,4 +6,5 @@ public class Orange extends Fruit{
     double getweight() {
         return 1.5;
     }
+
 }

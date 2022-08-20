@@ -11,6 +11,7 @@ public class Box<T extends Fruit> {
         this.frutList = new ArrayList<>(Arrays.asList(frutList));
     }
 
+
     public  double getWeight () {
        return frutList.stream()
                 .map(Fruit::getweight)

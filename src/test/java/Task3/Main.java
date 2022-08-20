@@ -10,6 +10,7 @@ public class Main {
                  new Orange(),
                  new Orange(),
                  new Orange()
+
         );
 
         Box<Apple> apples = new Box<>(
