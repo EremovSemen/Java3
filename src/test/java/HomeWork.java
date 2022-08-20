@@ -3,8 +3,6 @@ import java.util.ArrayList;
 import java.util.Arrays;
 
 public class HomeWork {
-
-
     public static void main(String[] args) {
         ArrayList list = new ArrayList();
         int[] array = {1, 2, 3, 4, 5, 6, 7, 8, 9};
